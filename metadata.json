@@ -1,0 +1,8 @@
+{
+  "name": "Remix SPARK THE EDUCATIONAL FRIEND",
+  "description": "An all-subjects interactive learning companion with Google Pay store for diamonds and subscriptions, quiz game, offline chess AI, language coach, study desk, and gaming hub. Made by Yashwanth Reddy Mahanandi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
